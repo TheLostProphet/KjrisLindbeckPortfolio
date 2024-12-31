@@ -32,9 +32,9 @@ layout: default
 
 ## Projects
 
-<h4> AWS Minecraft Server </h4>
+<h4> AWS Minecraft Server (September 2022- November 2024) </h4>
 - Established, configured, launched, administered, and hosted a Minecraft Server using AWS.
-- I provisioned a Linux server on AWS EC2, subsequently installing the latest version of Ubuntu. Following that, I installed the Java Development Kit. I created a directory and uploaded the Minecraft Server files. Finally, I configured a static IP address for my EC2 server.
+- AWS server was for personal and familiar use.
 
 
 <h4> Weather App </h4>

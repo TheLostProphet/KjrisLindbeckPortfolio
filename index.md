@@ -59,7 +59,7 @@ This includes:
 *   3 Affinity groups including 1 Corporate Chapter
 *   1 page relating to career oppertunities within Amazon
 
-
+```
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -67,14 +67,14 @@ var fun = function lang(l) {
   return true;
 }
 ```
-
+```
 ```ruby
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-
+```
 ``` #### Header 4
 
 *   This is an unordered list following a header.

@@ -1,10 +1,12 @@
 ---
 layout: default
 ---
+# Kjris Lindbeck's Portfolio
 
-# Nodal IT Support
-
-#### Technical Skills: CSS, HTML5, AWS, Project Management, Customer Support
+## Current Job
+<dl>
+<dt> Amazon IT Support Technician II </dt>
+ <dd> Technical Skills: CSS, HTML5, AWS, Project Management, Customer Support </dd>
 
 ## Education
 <dl>
